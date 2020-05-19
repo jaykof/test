@@ -48,8 +48,8 @@ GO
 
 select * from [dbo].[Employees];
 
-exec InsertEmployee 0,"ÎÒ","ÊÇË­","eeeee";
+exec InsertEmployee 0,"ï¿½ï¿½","ï¿½ï¿½Ë­","eeeee";
 
 insert into [dbo].[Categories] values (1, 'Beverages');
 
-select * from Products;
+select * from Products; select * from User;
