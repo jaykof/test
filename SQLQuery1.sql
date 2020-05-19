@@ -52,4 +52,4 @@ exec InsertEmployee 0,"��","��˭","eeeee";
 
 insert into [dbo].[Categories] values (1, 'Beverages');
 
-select * from Products; select * from User;
+select * from Products; select * from User WHERE;
